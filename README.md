@@ -47,3 +47,8 @@ virtual-herbal-garden/
 │── README.md
 ```
 ## 📸 Screenshots
+---
+## Home Page
+![3](https://github.com/user-attachments/assets/d7e481a6-8dda-4dbb-81bc-2a1761ad59e6)
+---
+
