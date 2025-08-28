@@ -51,4 +51,14 @@ virtual-herbal-garden/
 ## Home Page
 ![3](https://github.com/user-attachments/assets/d7e481a6-8dda-4dbb-81bc-2a1761ad59e6)
 ---
+## Explore page
+![2](https://github.com/user-attachments/assets/03e24723-72dc-4268-8435-6106c7bbb89c)
+---
+## Library page
+![1](https://github.com/user-attachments/assets/2c0c82cb-4145-4613-b561-92c7e20f7005)
+---
+## Signup page
+![4](https://github.com/user-attachments/assets/58c724b2-9edb-4d66-b93f-ad041dfebbfa)
+
+
 
